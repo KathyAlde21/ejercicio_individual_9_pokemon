@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fragment_container" type="id" />
+    <item name="cancel_button" type="id">cancel_button</item>
+    <item name="confirm_button" type="id">confirm_button</item>
+</resources>
